@@ -37,6 +37,6 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 
 
-
+## Screenshot
 
 <img src="https://github.com/SahuKapil/My-Clock/assets/116225142/856ba695-a0fc-43c7-9215-78512f6f4d01" alt="My Clock">
