@@ -1,4 +1,4 @@
-# My Clock
+# My Clock ⏲🕰️⌚️⏳
 
 This is a simple digital clock application built using Java Swing. It displays the current time and updates it every second.
 
